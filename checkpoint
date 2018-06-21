@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/deeblu/Documents/intern/kinetics-i3d/data/checkpoints/rgb_imagenet/model.ckpt"
+all_model_checkpoint_paths: "/home/deeblu/Documents/intern/kinetics-i3d/data/checkpoints/rgb_imagenet/model.ckpt"
